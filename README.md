@@ -1,7 +1,7 @@
 # Tugas-Project-Uas-Bahasa-Pemprograman
 
 **Program akan meminta kita untuk memasukkan nama produk, harga produk, stok produk**
-<img width="722" alt="image" src="https://github.com/user-attachments/assets/edf17083-17e8-4280-98f7-b10088054fad" />
+![OutPut UAS](https://github.com/user-attachments/assets/32677432-bc11-4d19-b131-b019a53cf029)
 
 **Class Data**
 
